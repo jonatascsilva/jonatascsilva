@@ -12,4 +12,4 @@ I came across with programming while studiyng electrical/electronic and it was l
 
 - ⚡ Building from scratch my portfolio website, all my projects will be available at <a href="https://jonatascsilva.netlify.app">jonatascsilva.netlify.app</a>.
 
-I'm currently available to work, feel free to reach me!
+- 🔭 I'm currently available for work, feel free to reach me!
