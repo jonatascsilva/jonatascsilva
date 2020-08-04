@@ -1,16 +1,15 @@
-### Hi there 👋
+# Jônatas Silva
 
-<!--
-**jonatascsilva/jonatascsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello there! I'm a native explorer and passionate about learn and share knowledge.<br>
+I came across with programming while studiyng electrical/electronic and it was love at first sight.
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/-Jônatas%20Silva-006cbf?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonatas-c-silva/)](https://www.linkedin.com/in/jonatas-c-silva/) 
+[![Gmail Badge](https://img.shields.io/badge/-jonatas.csilva@hotmail.com-006cbf?style=flat-square&logo=Microsoft%20Outlook&logoColor=white&link=mailto:jonatas.csilva@hotmail.com)](mailto:jonatas.csilva@hotmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :computer: Enthusiast of desktop, web and mobile development technologies;
+
+- 💬 Currently learning front-end technologies: HTML, CSS, JavaScript;
+
+- ⚡ Building from scratch my portfolio website, all my projects will be available at <a href="https://jonatascsilva.netlify.app">jonatascsilva.netlify.app</a>.
+
+I'm currently available to work, feel free to reach me!
