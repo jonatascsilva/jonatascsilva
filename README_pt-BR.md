@@ -3,12 +3,12 @@
 Seja bem-vindo! Sou um explorador nato e apaixonado em aprender e compartilhar conhecimento.<br>
 Encontrei a programação quando estava estudando elétrica/eletrônica e foi simplesmente amor à primeira vista.
 
-[![Linkedin Badge](https://img.shields.io/badge/-Jônatas%20Silva-006cbf?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonatas-c-silva/)](https://www.linkedin.com/in/jonatas-c-silva/) 
-[![Gmail Badge](https://img.shields.io/badge/-jonatas.csilva@hotmail.com-006cbf?style=flat-square&logo=Microsoft%20Outlook&logoColor=white&link=mailto:jonatas.csilva@hotmail.com)](mailto:jonatas.csilva@hotmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Jônatas%20Silva-006cbf?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonatas-c-silva/)](https://www.linkedin.com/in/jonatas-c-silva/) 
+[![Gmail Badge](https://img.shields.io/badge/-jonatas.csilva@hotmail.com-006cbf?logo=Microsoft%20Outlook&logoColor=white&link=mailto:jonatas.csilva@hotmail.com)](mailto:jonatas.csilva@hotmail.com)
 
 - :computer: Entusiasta de tecnologias para desenvolvimento para desktop, web e mobile;
 
-- 💬 Atualmente aprendendo tecnlogias *front-end*: HTML, CSS, JavaScript;
+- 💬 Atualmente aprendendo tecnologias *front-end*: HTML, CSS, JavaScript;
 
 - ⚡ Contruindo do zero meu portfólio online, todos os meus projetos estarão disponíveis em <a href="https://jonatascsilva.netlify.app">jonatascsilva.netlify.app</a>;
 
