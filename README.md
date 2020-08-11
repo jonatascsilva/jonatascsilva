@@ -1,4 +1,4 @@
-# Jônatas Silva
+# Jônatas Silva · [![Portuguese](https://img.shields.io/badge/🇧🇷-Portuguese-lightgrey)](README_pt-BR.md)
 
 Hello there! I'm a native explorer and passionate about learn and share knowledge.<br>
 I came across with programming while studiyng electrical/electronic and it was love at first sight.
